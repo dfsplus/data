@@ -1,7 +1,7 @@
 {
     "swagger": "2.0",
     "info": {
-        "title": "Hyperion History API for EOS Mainnet",
+        "title": "Hyperion History API for DFS Mainnet",
         "description": "\n<img height=\"64\" src=\"https://eosrio.io/hyperion.png\">\n### Scalable Full History API Solution for EOSIO based blockchains\n*Made with ♥️ by [EOS Rio](https://eosrio.io/)*\n***\n#### Current Chain: EOS Mainnet <img style=\"transform: translateY(8px)\" height=\"32\" src=\"https://eosusa.io/img/eos.png\">\n#### Provided by [EOSUSA](https://eosusa.io)\n#### Health API: <a target=\"_blank\" href=\"https://eos.eosusa.io/v2/health\">https://eos.eosusa.io/v2/health</a>\n",
         "version": "3.3.9-7"
     },
@@ -4516,7 +4516,7 @@
             }
         }
     },
-    "host": "https://api.dfs.land",
+    "host": "api.dfs.land",
     "schemes": [
         "https",
         "http"
